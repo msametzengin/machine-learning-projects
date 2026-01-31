@@ -1,4 +1,4 @@
-## ML Projects (Makine Öğrenimi Projeleri)
+## ML Projects (Makine Öğrenmesi Projeleri)
 
 1. Heart Attack Risk Prediction (1. Kalp Krizi Riski Tahmini)
    - Machine learning based heart disease risk analysis (- Makine öğrenimine dayalı kalp hastalığı risk analizi)  
