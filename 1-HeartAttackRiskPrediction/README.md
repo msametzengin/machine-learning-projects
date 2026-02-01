@@ -1,18 +1,34 @@
-# Heart Attack Risk Prediction
+# Heart Attack Risk Prediction  
+(Kalp Krizi Risk Tahmini)
 
-This project aims to predict heart disease (heart attack) risk using real-world medical data and basic machine learning techniques.
-A simple Artificial Neural Network (ANN) model is trained after data preprocessing, class balancing with SMOTE, and feature scaling.
-In addition, its accuracy rate was compared with other models (Random Forest, Decision Tree, Logistic Regression).
-The project also allows users to enter their own data via the terminal and receive a risk prediction.
+This project aims to predict heart disease (heart attack) risk using real-world medical data and basic machine learning techniques.  
+(Bu proje, gerçek tıbbi veriler kullanılarak temel makine öğrenmesi teknikleri ile **kalp hastalığı (kalp krizi) riski tahmini** yapmayı amaçlamaktadır.)
+
+A simple Artificial Neural Network (ANN) model is trained after data preprocessing, class balancing with SMOTE, and feature scaling.  
+(Veri ön işleme, SMOTE ile sınıf dengeleme ve ölçeklendirme sonrası basit bir **Yapay Sinir Ağı (ANN)** modeli eğitilmiştir.)
+
+Model performance is also compared with other machine learning algorithms.  
+(Ayrıca model performansı diğer makine öğrenmesi algoritmaları ile karşılaştırılmıştır.)
+
+The project allows users to enter their own data via the terminal and receive a risk prediction.  
+(Proje, kullanıcıların terminal üzerinden kendi verilerini girerek risk tahmini almasına olanak tanır.)
 
 ---
 
-## Proje Açıklaması:
+## 📌 Project Description (Proje Açıklaması)
 
-Bu proje, gerçek tıbbi veriler kullanılarak yapay zeka (makine öğrenmesi) yöntemleri ile **kalp hastalığı (kalp krizi) riski tahmini** yapmayı amaçlamaktadır.
-Veri ön işleme, sınıf dengesizliğini gidermek için **SMOTE**, ölçeklendirme ve basit bir **Yapay Sinir Ağı (ANN)** modeli kullanılmıştır.
-Ayrıca, diğer modeller ile doğruluk oranı karşılaştırılmıştır. (Random Forest, Decision Tree, Logistic Regression)
-Ayrıca kullanıcıdan terminal üzerinden veri alarak tahmin yapılabilmektedir.
+- Predicts heart attack risk using machine learning  
+  (Makine öğrenmesi kullanarak kalp krizi riski tahmini yapar)
+- Uses SMOTE to handle class imbalance  
+  (Sınıf dengesizliğini gidermek için SMOTE kullanır)
+- Trains an ANN-based classification model  
+  (ANN tabanlı bir sınıflandırma modeli eğitir)
+- Compares ANN with: (ANN diğer modeller ile karşılaştırıldı)
+  - Random Forest  
+  - Decision Tree  
+  - Logistic Regression  
+- Supports user input from the terminal  
+  (Terminal üzerinden kullanıcı girdisi ile tahmin yapılabilir)
 
 ---
 
@@ -23,37 +39,52 @@ Ayrıca kullanıcıdan terminal üzerinden veri alarak tahmin yapılabilmektedir
 - Source / Kaynak:  
   https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
-This dataset is publicly available and is used for educational purposes only.
+This dataset is publicly available and used for educational purposes only.  
 (Bu veri seti herkese açık olup yalnızca eğitim ve analiz amaçlı kullanılmıştır.)
+
+---
+
+## 🧠 Methodology (Yöntem)
+
+1. Dataset is loaded and preprocessed  
+   (Veri seti yüklenir ve ön işleme tabi tutulur)
+2. Categorical features are encoded  
+   (Kategorik değişkenler sayısal hale getirilir)
+3. Data is split into training and testing sets  
+   (Veri eğitim ve test setlerine ayrılır)
+4. Class imbalance is handled using SMOTE  
+   (SMOTE ile sınıf dengesizliği giderilir)
+5. Features are scaled using StandardScaler  
+   (Özellikler StandardScaler ile ölçeklendirilir)
+6. ANN model is trained  
+   (Yapay sinir ağı modeli eğitilir)
+7. User input is taken from the terminal for prediction  
+   (Tahmin için terminalden kullanıcı verisi alınır)
 
 ---
 
 ## 🛠️ Technologies / Kullanılan Teknolojiler
 
 - Python (3.10.11)
-- NumPy & Pandas  
-- Scikit-learn  
-- Imbalanced-learn (SMOTE)  
+- NumPy
+- Pandas
+- Scikit-learn
+- Imbalanced-learn (SMOTE)
 - TensorFlow / Keras
 - Matplotlib
 
 ---
 
-## 🚀 How It Works / Nasıl Çalışır?
-
-1. Dataset is loaded and preprocessed (1. Veri seti yüklenir ve ön işleme tabi tutulur.)
-2. Categorical features are encoded (2. Kategorik özellikler kodlanır.)
-3. Data is split into training and testing sets (3. Veriler eğitim ve test setlerine ayrılır.)
-4. Class imbalance is handled using SMOTE (4. SMOTE kullanılarak sınıf dengesizliği giderilir.)
-5. Features are scaled using StandardScaler (5. Özellikler StandardScaler kullanılarak ölçeklendirilir.)
-6. ANN model is trained (6. Yapay sinir ağı modeli eğitilir.)
-7. User inputs are taken from the terminal for prediction (7. Tahmin için terminalden kullanıcı girdileri alınır.)
-
----
-
 ## ▶️ Usage / Kullanım
 
-Install required libraries:
+Install required libraries (Gerekli kütüphaneleri yükleyin):
+## ⚠️ Disclaimer (Uyarı)
+
+This project is for educational and experimental purposes only
+and should not be used for medical diagnosis or clinical decision-making.
+
+(Bu proje eğitim ve deneysel amaçlıdır
+ve tıbbi tanı veya klinik karar verme amacıyla kullanılmamalıdır.)
 
 ```bash
 pip install -r requirements.txt
