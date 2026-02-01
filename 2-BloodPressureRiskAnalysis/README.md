@@ -75,11 +75,16 @@ The input Excel file (`tansiyon.xlsx`) should contain the following columns:
 - Scikit-learn
 
 ---
+## 📌 Project Note (Proje Notu)
 
-## ▶️ How to Run (Çalıştırma)
+This project was created as part of guided learning through online resources  
+and adapted to analyze personal blood pressure data using KMeans clustering  
+for educational purposes.
 
-
-
+(Bu proje, çevrim içi kaynaklar eşliğinde yapılan rehberli öğrenme sürecinin  
+bir parçası olarak geliştirilmiş ve kişisel tansiyon verileri üzerinde  
+KMeans kümeleme yöntemi uygulanacak şekilde uyarlanmıştır.)
+---
 ## ⚠️ Disclaimer (Uyarı)
 
 This project is for educational and experimental purposes only
@@ -87,6 +92,8 @@ and should not be used for medical diagnosis.
 
 (Bu proje eğitim ve deneysel amaçlıdır
 ve tıbbi tanı amacıyla kullanılmamalıdır.)
+---
+## ▶️ How to Run (Çalıştırma)
 
 ```bash
 pip install -r requirements.txt
