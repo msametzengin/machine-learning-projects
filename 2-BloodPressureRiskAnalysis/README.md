@@ -84,7 +84,7 @@ for educational purposes.
 (Bu proje, çevrim içi kaynaklar eşliğinde yapılan rehberli öğrenme sürecinin  
 bir parçası olarak geliştirilmiş ve kişisel tansiyon verileri üzerinde  
 KMeans kümeleme yöntemi uygulanacak şekilde uyarlanmıştır.)
----
+
 ## ⚠️ Disclaimer (Uyarı)
 
 This project is for educational and experimental purposes only
