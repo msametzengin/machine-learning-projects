@@ -74,10 +74,17 @@ This dataset is publicly available and used for educational purposes only.
 - Matplotlib
 
 ---
+## 📌 Project Note (Proje Notu)
 
-## ▶️ Usage / Kullanım
+This project was developed by following an online machine learning course  
+and further customized for learning and practice purposes.  
+The implementation was modified, analyzed, and documented by the author  
+to better understand the applied methods.
 
-Install required libraries (Gerekli kütüphaneleri yükleyin):
+(Bu proje bir çevrim içi makine öğrenmesi kursu takip edilerek geliştirilmiş,  
+öğrenme ve pratik amacıyla tarafımdan düzenlenmiş, analiz edilmiş  
+ve dokümante edilmiştir.)
+
 ## ⚠️ Disclaimer (Uyarı)
 
 This project is for educational and experimental purposes only
@@ -86,5 +93,8 @@ and should not be used for medical diagnosis or clinical decision-making.
 (Bu proje eğitim ve deneysel amaçlıdır
 ve tıbbi tanı veya klinik karar verme amacıyla kullanılmamalıdır.)
 
+## ▶️ Usage / Kullanım
+
+Install required libraries (Gerekli kütüphaneleri yükleyin):
 ```bash
 pip install -r requirements.txt
