@@ -46,7 +46,7 @@ pip install google-generativeai flask
 3. API anahtarını ortam değişkeni olarak tanımlayın:
 
 Windows (PowerShell):
-setx GEMINI_API_KEY "API_KEY_BURAYA"
+setx GEMINI_API_KEY="API_KEY_BURAYA"
 
 Mac / Linux:
 export GEMINI_API_KEY="API_KEY_BURAYA"
