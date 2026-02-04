@@ -35,12 +35,12 @@ Bu proje, öğrenme sürecinde geliştirilen bir **kişisel uygulama projesidir*
 ## ⚙️ Kurulum
 
 1. Projeyi klonlayın:
-```bash
+```
 git clone https://github.com/kullanici-adi/zengin-chat.git
 cd zengin-chat
 ```
 2. Gerekli kütüphaneyi yükleyin:
-```bash
+```
 pip install google-generativeai flask
 ```
 3. API anahtarını ortam değişkeni olarak tanımlayın:
@@ -52,7 +52,7 @@ Mac / Linux:
 export GEMINI_API_KEY="API_KEY_BURAYA"
 
 4. Uygulamayı çalıştırın:
-```bash
+```
 python app.py
 ```
 5. Tarayıcıdan açın:
