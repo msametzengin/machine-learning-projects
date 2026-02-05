@@ -25,17 +25,17 @@ The project was developed to practice data analysis, visualization, and working 
 
 ## 📊 Analyses Performed (Yapılan Analizler)
 
-**Earthquake Frequency Analysis**
+**Earthquake Frequency Analysis**:
 - Number of earthquakes over time
   (Zamana göre deprem sayısı analizi)
 
-**Magnitude Distribution Analysis**
+**Magnitude Distribution Analysis**:
 - Distribution of earthquake magnitudes (ML)
   (Deprem büyüklüklerinin (ML) dağılımı)
 
-**Depth vs Magnitude Analysis**
-Relationship between earthquake depth and magnitude
-(Deprem derinliği ile büyüklük arasındaki ilişki)
+**Depth vs Magnitude Analysis**:
+- Relationship between earthquake depth and magnitude
+  (Deprem derinliği ile büyüklük arasındaki ilişki)
 
 🗺️ Earthquake Map (Deprem Haritası)
 
