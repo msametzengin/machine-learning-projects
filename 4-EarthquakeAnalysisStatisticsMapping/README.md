@@ -103,3 +103,14 @@ and should not be used for seismic risk assessment or official decision-making.
 
 (Bu proje yalnızca eğitim ve analiz amaçlıdır
 ve resmi deprem risk değerlendirmeleri için kullanılmamalıdır.)
+
+## 🌍 Earthquake Map Visualization
+
+![Earthquake Map](screenshots/Earthquake_map.png)
+![Earthquake Map](screenshots/1-Number_of_earthquakes_by_date.png)
+
+## ▶️ Usage / Kullanım
+
+Install required libraries (Gerekli kütüphaneleri yükleyin):
+```bash
+pip install -r requirements.txt
