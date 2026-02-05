@@ -79,11 +79,11 @@ The dataset includes:
 
 ## 🛠️ Technologies / Kullanılan Teknolojiler
 
-Python
-Pandas
-Matplotlib
-Seaborn
-Folium
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Folium
 
 ## 📌 Project Note (Proje Notu)
 
@@ -106,7 +106,8 @@ ve resmi deprem risk değerlendirmeleri için kullanılmamalıdır.)
 
 ## 🌍 Earthquake Map Visualization
 
-![Earthquake Map](screenshots/Earthquake_map.png)
+You can find them in the screenshots section, for example:
+
 ![Earthquake Map](screenshots/1-Number_of_earthquakes_by_date.png)
 
 ## ▶️ Usage / Kullanım
