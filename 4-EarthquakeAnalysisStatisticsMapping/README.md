@@ -106,7 +106,7 @@ ve resmi deprem risk değerlendirmeleri için kullanılmamalıdır.)
 
 ## 🌍 Earthquake Map Visualization
 
-You can find them in the screenshots section, for example:
+You can find sample screenshots of this project in the 'screenshots' folder. For example:
 
 ![Earthquake Map](screenshots/1-Number_of_earthquakes_by_date.png)
 
