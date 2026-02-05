@@ -22,11 +22,11 @@
      (Teknolojiler: Python, Flask, Google Gemini API)
      
 4. Earthquake Analysis and Visualization (4. Deprem Analizi ve Görselleştirme)
-    -Data analysis and visualization of earthquake data in Turkey
-    (Türkiye’de meydana gelen depremlerin veri analizi ve görselleştirilmesi)
-    -Statistical analysis and interactive map visualization using Python
-    (Python kullanılarak istatistiksel analiz ve etkileşimli harita görselleştirmesi)
-    -Dataset: Earthquake Records (Excel)
-    (Veri seti: Deprem Kayıtları – Excel)
-    -Technologies: Python, Pandas, Matplotlib, Seaborn, Folium
-    (Teknolojiler: Python, Pandas, Matplotlib, Seaborn, Folium)
+    - Data analysis and visualization of earthquake data in Turkey
+      (Türkiye’de meydana gelen depremlerin veri analizi ve görselleştirilmesi)
+    - Statistical analysis and interactive map visualization using Python
+      (Python kullanılarak istatistiksel analiz ve etkileşimli harita görselleştirmesi)
+    - Dataset: Earthquake Records (Excel)
+      (Veri seti: Deprem Kayıtları – Excel)
+    - Technologies: Python, Pandas, Matplotlib, Seaborn, Folium
+      (Teknolojiler: Python, Pandas, Matplotlib, Seaborn, Folium)
