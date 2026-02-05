@@ -82,6 +82,13 @@ The dataset includes:
 - Seaborn
 - Folium
 
+## 🗺️ Map Data Source
+
+The map visualization is created using Folium,
+which is based on OpenStreetMap data.
+
+(OpenStreetMap açık kaynaklı harita verileri kullanılmıştır.)
+
 ## 📌 Project Note (Proje Notu)
 
 This project was developed by following a data analysis course
