@@ -26,12 +26,12 @@ The project was developed to practice data analysis, visualization, and working 
 ## 📊 Analyses Performed (Yapılan Analizler)
 
 **Earthquake Frequency Analysis**
-Number of earthquakes over time
-(Zamana göre deprem sayısı analizi)
+- Number of earthquakes over time
+  (Zamana göre deprem sayısı analizi)
 
 **Magnitude Distribution Analysis**
-Distribution of earthquake magnitudes (ML)
-(Deprem büyüklüklerinin (ML) dağılımı)
+- Distribution of earthquake magnitudes (ML)
+  (Deprem büyüklüklerinin (ML) dağılımı)
 
 **Depth vs Magnitude Analysis**
 Relationship between earthquake depth and magnitude
@@ -39,13 +39,10 @@ Relationship between earthquake depth and magnitude
 
 🗺️ Earthquake Map (Deprem Haritası)
 
-An interactive map created using Folium
-
-Each earthquake is displayed as a circle marker
-
-Marker size is proportional to earthquake magnitude
-
-Popups show location, magnitude, and depth information
+- An interactive map created using Folium
+- Each earthquake is displayed as a circle marker
+- Marker size is proportional to earthquake magnitude
+- Popups show location, magnitude, and depth information
 
 (Folium kullanılarak oluşturulmuş etkileşimli bir harita.
 Her deprem büyüklüğüne göre ölçeklenen dairelerle gösterilir ve konum, büyüklük, derinlik bilgileri popup olarak sunulur.)
