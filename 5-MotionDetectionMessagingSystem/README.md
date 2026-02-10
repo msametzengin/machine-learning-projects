@@ -40,7 +40,7 @@ When a significant motion area is detected, a WhatsApp message containing the da
 - Binary thresholding and morphological operations
   (İkili eşikleme ve morfolojik işlemler)
 - Contour detection and area filtering
-  (Kontur tespiti ve alan bazlı filtreleme)
+  (Kontür tespiti ve alan bazlı filtreleme)
 
 ## 📱 WhatsApp Alert System (WhatsApp Bildirim Sistemi)
 
