@@ -25,27 +25,24 @@ The project was developed to practice data analysis, visualization, and working 
 
 ## 📊 Analyses Performed (Yapılan Analizler)
 
-**Earthquake Frequency Analysis**
-Number of earthquakes over time
-(Zamana göre deprem sayısı analizi)
+**Earthquake Frequency Analysis**:
+- Number of earthquakes over time
+  (Zamana göre deprem sayısı analizi)
 
-**Magnitude Distribution Analysis**
-Distribution of earthquake magnitudes (ML)
-(Deprem büyüklüklerinin (ML) dağılımı)
+**Magnitude Distribution Analysis**:
+- Distribution of earthquake magnitudes (ML)
+  (Deprem büyüklüklerinin (ML) dağılımı)
 
-**Depth vs Magnitude Analysis**
-Relationship between earthquake depth and magnitude
-(Deprem derinliği ile büyüklük arasındaki ilişki)
+**Depth vs Magnitude Analysis**:
+- Relationship between earthquake depth and magnitude
+  (Deprem derinliği ile büyüklük arasındaki ilişki)
 
 🗺️ Earthquake Map (Deprem Haritası)
 
-An interactive map created using Folium
-
-Each earthquake is displayed as a circle marker
-
-Marker size is proportional to earthquake magnitude
-
-Popups show location, magnitude, and depth information
+- An interactive map created using Folium
+- Each earthquake is displayed as a circle marker
+- Marker size is proportional to earthquake magnitude
+- Popups show location, magnitude, and depth information
 
 (Folium kullanılarak oluşturulmuş etkileşimli bir harita.
 Her deprem büyüklüğüne göre ölçeklenen dairelerle gösterilir ve konum, büyüklük, derinlik bilgileri popup olarak sunulur.)
@@ -79,11 +76,17 @@ The dataset includes:
 
 ## 🛠️ Technologies / Kullanılan Teknolojiler
 
-Python
-Pandas
-Matplotlib
-Seaborn
-Folium
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Folium
+
+## 🗺️ Map Data Source
+
+The map visualization is created using Folium,
+which is based on OpenStreetMap data.
+(OpenStreetMap açık kaynaklı harita verileri kullanılmıştır.)
 
 ## 📌 Project Note (Proje Notu)
 
@@ -106,7 +109,8 @@ ve resmi deprem risk değerlendirmeleri için kullanılmamalıdır.)
 
 ## 🌍 Earthquake Map Visualization
 
-![Earthquake Map](screenshots/Earthquake_map.png)
+You can find sample screenshots of this project in the 'screenshots' folder. For example:
+
 ![Earthquake Map](screenshots/1-Number_of_earthquakes_by_date.png)
 
 ## ▶️ Usage / Kullanım
