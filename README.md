@@ -30,3 +30,11 @@
       (Veri seti: Deprem Kayıtları – Excel)
     - Technologies: Python, Pandas, Matplotlib, Seaborn, Folium
       (Teknolojiler: Python, Pandas, Matplotlib, Seaborn, Folium)
+      
+5. Motion Detection WhatsApp Alert System (5. Hareket Algılama ve WhatsApp Bildirim Sistemi)
+    - Webcam-based motion detection and alert system  
+     (Webcam tabanlı hareket algılama ve bildirim sistemi)
+    - Automatic WhatsApp message notification on detected motion  
+     (Hareket tespit edildiğinde otomatik WhatsApp mesaj bildirimi)
+    - Technologies: Python, OpenCV, PyAutoGUI  
+     (Teknolojiler: Python, OpenCV, PyAutoGUI)

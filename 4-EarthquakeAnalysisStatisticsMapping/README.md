@@ -112,5 +112,6 @@ ve resmi deprem risk değerlendirmeleri için kullanılmamalıdır.)
 ## ▶️ Usage / Kullanım
 
 Install required libraries (Gerekli kütüphaneleri yükleyin):
+
 ```bash
 pip install -r requirements.txt
